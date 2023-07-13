@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\bin\Debug\net7.0\OOP_P517.exe
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\bin\Debug\net7.0\OOP_P517.deps.json
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\bin\Debug\net7.0\OOP_P517.runtimeconfig.json
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\bin\Debug\net7.0\OOP_P517.dll
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\bin\Debug\net7.0\OOP_P517.pdb
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\obj\Debug\net7.0\OOP_P517.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\obj\Debug\net7.0\OOP_P517.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\obj\Debug\net7.0\OOP_P517.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\obj\Debug\net7.0\OOP_P517.AssemblyInfo.cs
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\obj\Debug\net7.0\OOP_P517.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\obj\Debug\net7.0\OOP_P517.dll
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\obj\Debug\net7.0\refint\OOP_P517.dll
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\obj\Debug\net7.0\OOP_P517.pdb
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\obj\Debug\net7.0\OOP_P517.genruntimeconfig.cache
+C:\Users\HP\Desktop\OOP_P517\OOP_P517\obj\Debug\net7.0\ref\OOP_P517.dll
